@@ -34,7 +34,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.control_privapp_permissions=disable
 
 PRODUCT_PACKAGES += \
-    messaging
+    messaging \
+    netutils-wrapper-1.0
 
 LOCAL_PATH := device/google/wahoo
 
