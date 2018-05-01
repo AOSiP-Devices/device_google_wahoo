@@ -609,4 +609,4 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
 PRODUCT_PROPERTY_OVERRIDES += \
     fmas.hdph_sgain=0
 
-include device/google/wahoo/device-XOS.mk
+include device/google/wahoo/device-aosip.mk

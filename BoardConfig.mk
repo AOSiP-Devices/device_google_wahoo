@@ -169,4 +169,4 @@ TARGET_USES_MKE2FS := true
 
 BOARD_VNDK_VERSION := current
 
-include device/google/wahoo/BoardConfigXOS.mk
+include device/google/wahoo/BoardConfig-aosip.mk
