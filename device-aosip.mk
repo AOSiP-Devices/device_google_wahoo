@@ -43,6 +43,10 @@ VENDOR_SECURITY_PATCH := "2020-10-05"
 PRODUCT_PACKAGES += \
     com.android.nfc_extras
 
+# Last stock security patch levels
+PLATFORM_SECURITY_PATCH := 2020-10-05
+VENDOR_SECURITY_PATCH := "2020-10-05"
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     hardware/google/interfaces
